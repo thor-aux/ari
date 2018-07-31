@@ -1,0 +1,13 @@
+﻿-============== THE DETECTIVE ==============-
+A game by Ari A. Eythorsson.
+(Concept sketches done by Nikoli ford)
+
+TECH/ETC NOTES:
+Made in unity and moddeled in blender. Coded in C#
+
+
+LEVELS:
+The detective is a game created by Ari Eythorsson featuring 100+ fun and unique levels. buy this game.
+
+Level 1:
+Should be easy, entering, shooting, exiting. (Maybe have path for player in tiles?)

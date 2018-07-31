@@ -1,0 +1,21 @@
+﻿7/30/2018. 3:59 AM
+I have a plane to get at twelve but I just love working on this. I have just made a testing scene and started on a script to move the player. I also made a starting design for the detective. I might stick with it, might not. anyways, I'll get back to my game.
+
+7/30/2018. 4:08 AM
+Got to remember not to be an idiot and use velocity. I really shouldn't directly translate the rigidbodies.
+
+7/30/2018 4:22 AM
+Started fucking around and built a really basic slidey controller for my player (Currently a capsle). I know what I need to do to make it a better controller that I can, you know, use. I'll keep pushing out the code.
+Also I feel it should be mention fixing bugs makes bugs and I'm so done (Not really, this is just beggining).
+
+7/30/2018 4:59 AM
+So about 10 minutes ago I got left and right almost all working. Just finished the gravity with it and now I'm doing grounding to make sure the character doesn't repetedly jump. Coding is fun when everything works.
+
+7/30/2018 5:02 AM
+Annnnd got grounding to work. Im propably going to go to sleep soon, but who knows. Also by grounding I mean checking if the player is on the ground so they can't repetedly jump.
+
+7/30/2018 5:13 AM
+There was a bunch of bugs with the gravity, just had to edit some variables
+
+7/30/2016 5:20 AM
+Everything is worked out and I'm now adding the first level.
